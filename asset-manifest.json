@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zanzet/react-marvel-api.git/static/css/main.6f1f2fb0.css",
+    "main.js": "/zanzet/react-marvel-api.git/static/js/main.50a6517f.js",
+    "static/css/465.839e0f55.chunk.css": "/zanzet/react-marvel-api.git/static/css/465.839e0f55.chunk.css",
+    "static/js/465.834c3f95.chunk.js": "/zanzet/react-marvel-api.git/static/js/465.834c3f95.chunk.js",
+    "static/css/341.7b4568d6.chunk.css": "/zanzet/react-marvel-api.git/static/css/341.7b4568d6.chunk.css",
+    "static/js/341.571f1a28.chunk.js": "/zanzet/react-marvel-api.git/static/js/341.571f1a28.chunk.js",
+    "static/media/vision.png": "/zanzet/react-marvel-api.git/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/zanzet/react-marvel-api.git/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/zanzet/react-marvel-api.git/static/media/Avengers.4065c8f9c94e3d8b039a.png",
+    "static/media/error.gif": "/zanzet/react-marvel-api.git/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/Avengers_logo.png": "/zanzet/react-marvel-api.git/static/media/Avengers_logo.9eaf219344d83362e830.png",
+    "index.html": "/zanzet/react-marvel-api.git/index.html",
+    "main.6f1f2fb0.css.map": "/zanzet/react-marvel-api.git/static/css/main.6f1f2fb0.css.map",
+    "main.50a6517f.js.map": "/zanzet/react-marvel-api.git/static/js/main.50a6517f.js.map",
+    "465.839e0f55.chunk.css.map": "/zanzet/react-marvel-api.git/static/css/465.839e0f55.chunk.css.map",
+    "465.834c3f95.chunk.js.map": "/zanzet/react-marvel-api.git/static/js/465.834c3f95.chunk.js.map",
+    "341.7b4568d6.chunk.css.map": "/zanzet/react-marvel-api.git/static/css/341.7b4568d6.chunk.css.map",
+    "341.571f1a28.chunk.js.map": "/zanzet/react-marvel-api.git/static/js/341.571f1a28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f1f2fb0.css",
+    "static/js/main.50a6517f.js"
+  ]
+}
